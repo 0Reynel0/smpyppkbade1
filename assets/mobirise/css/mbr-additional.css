@@ -6,11 +6,11 @@ body {
 }
 .display-1 {
   font-family: 'Lilita One', display;
-  font-size: 1.8rem;
+  font-size: 4.6rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 2.25rem;
+  font-size: 5.75rem;
 }
 .display-2 {
   font-family: 'Shadows Into Light', handwriting;
@@ -51,14 +51,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 1.44rem;
+    font-size: 3.68rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.26rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.22rem;
+    font-size: calc( 2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (2.26rem + (4.6 - 2.26) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.44rem;
@@ -2502,14 +2502,16 @@ a {
   margin-top: auto !important;
 }
 .cid-ueUjKtu13H .mbr-section-title {
-  color: #fafafa;
+  color: #353535;
 }
 .cid-ueUjKtu13H .mbr-text,
 .cid-ueUjKtu13H .mbr-section-btn {
   text-align: left;
+  color: #fafafa;
 }
 .cid-ueUjKtu13H .item-title {
   text-align: left;
+  color: #ffef00;
 }
 .cid-ueUjKtu13H .item-subtitle {
   text-align: left;

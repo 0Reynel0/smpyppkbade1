@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page7.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -13,7 +13,7 @@
         "dangerColor": "#916300",
         "mainFont": "Jost",
         "display1Font": "Lilita One",
-        "display1Size": "1.8",
+        "display1Size": "4.6",
         "display2Font": "Shadows Into Light",
         "display2Size": "1.8",
         "display5Font": "Archivo Black",
@@ -32,13 +32,13 @@
       "nameSelectPreset": "shop",
       "presetSourceTheme": "mobirise5",
       "additionalSetColors": [
+        "#ffef00",
         "#102a71",
         "#507fd8",
         "#008775",
         "#ffea00",
         "#ff7800",
-        "#ffcf00",
-        "#e24b00"
+        "#ffcf00"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -2457,13 +2457,15 @@
               "margin-top": "auto !important"
             },
             ".mbr-section-title": {
-              "color": "#fafafa"
+              "color": "#353535"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#fafafa"
             },
             ".item-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffef00"
             },
             ".item-subtitle": {
               "text-align": "left"
