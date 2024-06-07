@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -13,7 +13,7 @@
         "dangerColor": "#916300",
         "mainFont": "Jost",
         "display1Font": "Lilita One",
-        "display1Size": "4.6",
+        "display1Size": "1.8",
         "display2Font": "Shadows Into Light",
         "display2Size": "1.8",
         "display5Font": "Archivo Black",
